@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skywalkerSam/face-detection/static/css/main.b6bdccca.css",
+    "main.js": "/skywalkerSam/face-detection/static/js/main.856f3331.js",
+    "static/js/787.5e667bc4.chunk.js": "/skywalkerSam/face-detection/static/js/787.5e667bc4.chunk.js",
+    "static/media/starboy_logo.png": "/skywalkerSam/face-detection/static/media/starboy_logo.2a9ecf8d2bd8c19b7810.png",
+    "index.html": "/skywalkerSam/face-detection/index.html",
+    "main.b6bdccca.css.map": "/skywalkerSam/face-detection/static/css/main.b6bdccca.css.map",
+    "main.856f3331.js.map": "/skywalkerSam/face-detection/static/js/main.856f3331.js.map",
+    "787.5e667bc4.chunk.js.map": "/skywalkerSam/face-detection/static/js/787.5e667bc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bdccca.css",
+    "static/js/main.856f3331.js"
+  ]
+}
