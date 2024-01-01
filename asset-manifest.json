@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/face-detection/static/css/main.b6bdccca.css",
-    "main.js": "/face-detection/static/js/main.aa2d6b14.js",
+    "main.js": "/face-detection/static/js/main.2de3f5ee.js",
     "static/js/787.5e667bc4.chunk.js": "/face-detection/static/js/787.5e667bc4.chunk.js",
     "static/media/starboy_logo.png": "/face-detection/static/media/starboy_logo.2a9ecf8d2bd8c19b7810.png",
     "index.html": "/face-detection/index.html",
     "main.b6bdccca.css.map": "/face-detection/static/css/main.b6bdccca.css.map",
-    "main.aa2d6b14.js.map": "/face-detection/static/js/main.aa2d6b14.js.map",
+    "main.2de3f5ee.js.map": "/face-detection/static/js/main.2de3f5ee.js.map",
     "787.5e667bc4.chunk.js.map": "/face-detection/static/js/787.5e667bc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6bdccca.css",
-    "static/js/main.aa2d6b14.js"
+    "static/js/main.2de3f5ee.js"
   ]
 }
