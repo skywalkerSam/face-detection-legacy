@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/face-detection/static/css/main.b6bdccca.css",
-    "main.js": "/face-detection/static/js/main.2de3f5ee.js",
+    "main.css": "/face-detection/static/css/main.d3bef2e3.css",
+    "main.js": "/face-detection/static/js/main.7bfbdf91.js",
     "static/js/787.5e667bc4.chunk.js": "/face-detection/static/js/787.5e667bc4.chunk.js",
-    "static/media/starboy_logo.png": "/face-detection/static/media/starboy_logo.2a9ecf8d2bd8c19b7810.png",
+    "static/media/favicon.png": "/face-detection/static/media/favicon.0edf4bca2c7949af6533.png",
     "index.html": "/face-detection/index.html",
-    "main.b6bdccca.css.map": "/face-detection/static/css/main.b6bdccca.css.map",
-    "main.2de3f5ee.js.map": "/face-detection/static/js/main.2de3f5ee.js.map",
+    "main.d3bef2e3.css.map": "/face-detection/static/css/main.d3bef2e3.css.map",
+    "main.7bfbdf91.js.map": "/face-detection/static/js/main.7bfbdf91.js.map",
     "787.5e667bc4.chunk.js.map": "/face-detection/static/js/787.5e667bc4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6bdccca.css",
-    "static/js/main.2de3f5ee.js"
+    "static/css/main.d3bef2e3.css",
+    "static/js/main.7bfbdf91.js"
   ]
 }
