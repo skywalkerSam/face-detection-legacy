@@ -104,7 +104,7 @@ export default class App extends Component {
         this.setState({ imageUrl: this.state.input })
         // const IMAGE_URL = this.state.input;
 
-        fetch('http://localhost:3333/imageurl', {
+        fetch('https://face-detection-backend-one.onrender.com/imageurl', {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -117,7 +117,7 @@ export default class App extends Component {
 
         console.log('Fetching the Image... ')
 
-        fetch('http://localhost:3333/image', {
+        fetch('https://face-detection-backend-one.onrender.com/image', {
             method: 'put',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -190,3 +190,20 @@ export default class App extends Component {
         )
     }
 }
+
+
+
+/* 
+Sample Images URLs:
+
+    https://samples.clarifai.com/metro-north.jpg
+
+    https://cdnb.artstation.com/p/assets/images/images/072/485/995/4k/chengwei-pan-1.jpg?1707463211
+
+    https://cdna.artstation.com/p/assets/images/images/072/167/834/large/eunice-ye-.jpg?1706752364
+
+    https://cdna.artstation.com/p/assets/images/images/072/178/120/large/alex-gray-tbrender-camera-38.jpg?1706781629
+
+    https://cdnb.artstation.com/p/assets/images/images/072/184/959/4k/hwng-edric-nguyen-tbrender-viewport-009.jpg?1706793715
+
+*/
