@@ -34,7 +34,7 @@ export class Register extends Component {
 
     onSubmitRegister = (event) => {
         event.preventDefault();
-        fetch('http://localhost:3333/signup', {
+        fetch('https://face-detection-backend-one.onrender.com/signup', {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
