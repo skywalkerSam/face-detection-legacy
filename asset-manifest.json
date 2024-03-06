@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/face-detection/static/css/main.ab1a074d.css",
-    "main.js": "/face-detection/static/js/main.3a013dcd.js",
-    "static/js/787.5e667bc4.chunk.js": "/face-detection/static/js/787.5e667bc4.chunk.js",
-    "static/media/favicon.png": "/face-detection/static/media/favicon.0edf4bca2c7949af6533.png",
-    "index.html": "/face-detection/index.html",
-    "main.ab1a074d.css.map": "/face-detection/static/css/main.ab1a074d.css.map",
-    "main.3a013dcd.js.map": "/face-detection/static/js/main.3a013dcd.js.map",
-    "787.5e667bc4.chunk.js.map": "/face-detection/static/js/787.5e667bc4.chunk.js.map"
+    "main.css": "/face-detection-legacy/static/css/main.ab1a074d.css",
+    "main.js": "/face-detection-legacy/static/js/main.f6bbd754.js",
+    "static/js/787.48f7103e.chunk.js": "/face-detection-legacy/static/js/787.48f7103e.chunk.js",
+    "static/media/favicon.png": "/face-detection-legacy/static/media/favicon.0edf4bca2c7949af6533.png",
+    "index.html": "/face-detection-legacy/index.html",
+    "main.ab1a074d.css.map": "/face-detection-legacy/static/css/main.ab1a074d.css.map",
+    "main.f6bbd754.js.map": "/face-detection-legacy/static/js/main.f6bbd754.js.map",
+    "787.48f7103e.chunk.js.map": "/face-detection-legacy/static/js/787.48f7103e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab1a074d.css",
-    "static/js/main.3a013dcd.js"
+    "static/js/main.f6bbd754.js"
   ]
 }
