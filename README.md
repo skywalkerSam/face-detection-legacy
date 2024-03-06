@@ -6,6 +6,9 @@ A simple `face-detection` application using `clarifai`. This project is made wit
 ```shell
 npx create-react-app face-detection-legacy
 ```
+```shell
+npm start
+```
 
 
 - Under Development!
