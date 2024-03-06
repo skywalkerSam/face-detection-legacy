@@ -1,4 +1,4 @@
-# Project: [face-detection](https://github.com/skywalkerSam/face-detection)
+# Project: [face-detection](https://github.com/skywalkerSam/face-detection-legacy)
 
 A simple `face-detection` application using `clarifai`. This project is made with `create-react-app`, and deployed on `github-pages`, and it works. [Here...](https://skywalkersam.github.io/face-detection/)
 

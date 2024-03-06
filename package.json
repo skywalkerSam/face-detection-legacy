@@ -1,6 +1,6 @@
 {
-  "name": "face-detection",
-  "homepage": "https://skywalkerSam.github.io/face-detection",
+  "name": "face-detection-legacy",
+  "homepage": "https://skywalkerSam.github.io/face-detection-legacy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
